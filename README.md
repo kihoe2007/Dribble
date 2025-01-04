@@ -726,7 +726,7 @@ window.addEventListener('scroll', function() {
 });
 
 ## OUTPUT:
-photo.jpg
+![alt text](photo.jpg)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
