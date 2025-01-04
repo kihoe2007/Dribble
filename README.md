@@ -724,7 +724,7 @@ menuIcon.addEventListener('click', toggleMenu);
 window.addEventListener('scroll', function() {
     header.classList.toggle('sticky', window.scrollY > 0);
 });
-
+```
 ## OUTPUT:
 ![alt text](photo.jpg)
 
